@@ -2,6 +2,7 @@
 Household Water Usage Survey &amp; Visualization Using python
 
 🚿 Daily Water Usage Survey & Analysis
+
 This project is a simple Python-based tool that helps users analyze their daily household water consumption and compare it with recommended safety limits. It educates users on water conservation by suggesting efficient methods when their usage exceeds the limit.
 
 🧠 Features
@@ -16,6 +17,7 @@ Personalized recommendations to reduce excess water usage.
 Encouraging message based on user's water usage behavior.
 
 📊 Tasks Covered
+
 Showering
 
 Dishwashing
